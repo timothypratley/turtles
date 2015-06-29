@@ -1,0 +1,2 @@
+{:require  [turtles.app]
+ :init-fns [turtles.app/init]}
