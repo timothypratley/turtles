@@ -10,7 +10,7 @@
    [ui/ui]])
 
 (defn reload []
-  (reagent/render-component root (.getElementById js/document "container")))
+  (reagent/render-component root (.getElementById js/document "turtles")))
 
 (defn init []
   (ticker/start)
