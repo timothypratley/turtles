@@ -155,7 +155,7 @@
 (def script
   [""
    "Once upon a time,"
-   "in the mystical Land of Lamda,"
+   "in the mystical Land of Lambda,"
    "lived four turtles"
    "who loved spirals."
    "Leonardo drew spirals with smooth ratios."
@@ -166,7 +166,7 @@
    "They all lived by a strict code of conduct;"
    "1. Take one step at a time."
    "2. Never cross another turtle's trail."
-   "3. Stay within the Land of Lamda."
+   "3. Stay within the Land of Lambda."
    ""
    "Donatello stuck to circular curves."
    "Leonardo, Michaelangelo and Raphael alternated"

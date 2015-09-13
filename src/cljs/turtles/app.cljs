@@ -15,3 +15,6 @@
 (defn init []
   (ticker/start)
   (reload))
+
+(defonce start
+  (init))
